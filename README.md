@@ -4,8 +4,6 @@
 
 I build production SaaS features end to end, from .NET 8 APIs and MongoDB data models to Angular 19 front ends, and I've been bringing AI into the product and into how we ship it: OpenAI + RAG features for customers, and Claude-powered workflows for our engineering team.
 
-🔍 **Open to Software Engineer / .NET Backend / Full-Stack roles**
-
 ---
 
 ### 🛠️ Highlights from Kovai.co
